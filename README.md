@@ -6,3 +6,5 @@
 - 🏭 Currently working as a front end developer at Barkweb
 
 ### Check out my portfolio [here](https://alextana.co.uk)
+
+[![image](https://user-images.githubusercontent.com/24207888/188632945-1d55c7b8-ed23-42d0-bbfe-b938c13e865f.png)](https://alextana.co.uk)
