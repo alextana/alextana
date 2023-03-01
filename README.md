@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Playlistr](https://playlistr.dev/), A NextJS application that lets you manage Spotify playlists.
 - 📫 How to reach me: hello@alextana.co.uk
 - 😄 Pronouns: he/him
-- 🏭 Currently working as a front end developer at Barkweb
+- 🏭 Currently working as a front end developer at Amiqus
 
 ## Typescript, Svelte, React, Vue, CSS, Tailwind
 
